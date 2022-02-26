@@ -41,19 +41,19 @@ public class Baitapslide40 {
         Scanner scanner = new Scanner(System.in);
         int ngay = scan.nextInt();
         switch(ngay) {
-            Case 0:system.out.println("Thu hai");
+            case 0:system.out.println("Thu hai");
             break;
-            Case 1:system.out.println("Thu ba");
+            case 1:system.out.println("Thu ba");
             break;
-            Case 2:system.out.println("Thu tu");
+            case 2:system.out.println("Thu tu");
             break;
-            Case 3:system.out.println("Thu nam");
+            case 3:system.out.println("Thu nam");
             break;
-            Case 4:system.out.println("Thu sau");
+            case 4:system.out.println("Thu sau");
             break;
-            Case 5:system.out.println("Thu bay");
+            case 5:system.out.println("Thu bay");
             break;
-            Case 6:system.out.println("Chu nhat");
+            case 6:system.out.println("Chu nhat");
             break;
             default:system.out.println("Đó không phải là ngày trong tuần");
         }
